@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: rgba(17, 24, 39, 1);
+}
+
+.square {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 20rem;
+  width: 20rem;
+  background-color: rgba(255, 255, 255, 1);
+}
+
+.circle {
+  border-radius: 9999px;
+  height: 5rem;
+  width: 5rem;
+  background-color: rgba(220, 38, 38, 1);
+}
