@@ -25,7 +25,7 @@ export default function Home() {
         </Link>
         <br />
         <Link href="/styled">
-          <a>CSS-in-JS Styled components</a>
+          <a>CSS-in-JS (Styled components)</a>
         </Link>
         <br />
         <Link href="/animation">
