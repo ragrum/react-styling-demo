@@ -14,6 +14,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Resources
 
+[Differences In Attributes](https://reactjs.org/docs/dom-elements.html#differences-in-attributes)
+
 [Styling in React](https://reactjs.org/docs/faq-styling.html)
 
 [Inline styling in React](https://reactjs.org/docs/dom-elements.html#style)
