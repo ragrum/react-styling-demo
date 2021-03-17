@@ -24,7 +24,7 @@ const Circle = styled.div`
   background-color: rgba(220, 38, 38, 1);
 `;
 
-export default function Classes() {
+export default function Styled() {
   return (
     <Container>
       <Square>
