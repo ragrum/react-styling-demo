@@ -27,6 +27,10 @@ export default function Home() {
         <Link href="/styled">
           <a>CSS-in-JS Styled components</a>
         </Link>
+        <br />
+        <Link href="/animation">
+          <a>Animation (Framer Motion)</a>
+        </Link>
       </div>
     </div>
   );
